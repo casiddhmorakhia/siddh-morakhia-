@@ -1,0 +1,1599 @@
+SECTOR COMPARATIVE ANALYSIS
+ 
+
+India Renewable Energy
+Investment Dashboard
+
+A comparative assessment of Tata Power, Adani Green Energy, NTPC Green Energy and Suzlon Energy across revenue growth, debt structure, EBITDA, valuation multiples and ESG.
+
+COVERAGE UNIVERSE
+TICKER
+BUSINESS MODEL
+MKT CAP (₹ CR)
+EV/EBITDA
+NET DEBT/EBITDA
+Tata Power
+TATAPOWER
+Integrated utility
+1,19,632
+10.7x
+3.2x
+Adani Green Energy
+ADANIGREEN
+Pure-play RE IPP
+2,29,801
+29.5x
+8.4x
+NTPC Green Energy
+NTPCGREEN
+PSU RE IPP
+81,162
+44.8x
+11.9x
+Suzlon Energy
+SUZLON
+Wind OEM, EPC and O&M
+72,490
+23.2x
+net cash
+ 
+
+ 
+Financial data   FY2025-26, consolidated, year ended 31 March 2026 (audited)
+Market data   NSE and BSE closing prices, 22 – 24 July 2026
+Report date   28 July 2026
+
+Prepared from public disclosures. Not investment advice. This document has not been reviewed by any of the companies discussed. Refer to the basis of preparation overleaf.
+
+
+India Renewable Energy Investment Dashboard​FY2025-26  ·  28 July 2026
+Basis of preparation and important notice
+ 
+Purpose
+This report compares four listed participants in India's renewable energy build-out on five dimensions: revenue growth, debt structure, EBITDA, valuation multiples and ESG. It is a screening and diligence document. It sets out what the reported numbers show, where they have been estimated, and how confident a reader should be in each figure.
+
+Sources
+Financial data is taken from audited FY2025-26 consolidated results, exchange filings under Regulation 33, results press releases, investor presentations and earnings calls. Market data is taken from NSE and BSE closing prices. ESG data is taken from MSCI, Morningstar Sustainalytics, LSEG, S&P Global's Corporate Sustainability Assessment, CRISIL ESG Ratings & Analytics and Corporate Knights. A full source register is at Appendix E.
+
+Estimated figures
+Three of the four companies do not publish a clean gross-debt-and-equity split in their results releases; they publish leverage ratios instead. Total equity has therefore been reverse-engineered from the reported ratio and the reported debt. Every such figure is flagged, and each estimate has been tested by computing price-to-book from it and comparing against independently published market ratios. The reconciliation is set out at section 9.3. Readers should treat flagged figures as indicative and replace them once all FY2025-26 annual reports are filed.
+
+Comparability
+The four companies are deliberately not comparables. They occupy different positions on the same value chain: an integrated utility, two independent power producers and an equipment manufacturer. Certain multiples — EV/Revenue in particular — carry no cross-sectional meaning in this set, and the report says so where that applies rather than presenting the number without comment.
+
+No forward estimates
+Everything in this report is historical and reported. There are no consensus forecasts, no discounted cash flow, no target prices and no recommendations. Section 9.4 describes how the underlying model extends to forward multiples without structural change.
+
+Disclaimer
+This document has been prepared for information purposes only. It does not constitute investment research, an offer or a solicitation, and it is not advice on the merits of any security. Figures are derived from sources believed to be reliable but no representation is made as to their accuracy or completeness. Past performance is not indicative of future results.
+
+Contents
+ 
+Basis of preparation and important notice​2
+1   Executive summary​5
+1.1  Summary of findings​5
+1.2  Conclusions​5
+2   Coverage universe​7
+2.1  Four positions on one value chain​7
+2.2  Why this matters for every number that follows​7
+3   Revenue and earnings growth​8
+3.1  The headline picture​8
+3.2  Tata Power — a mix shift dressed as a decline​8
+3.3  Adani Green — the divergence between EBITDA and profit​8
+3.4  NTPC Green — asset growth ahead of earnings​9
+3.5  Suzlon — growth, and a question about its quality​9
+4   Debt structure and balance sheet capacity​10
+4.1  Aggregate position​10
+4.2  Adani Green — the trade, stated plainly​10
+4.3  NTPC Green — the highest ratio, the cheapest funding​11
+4.4  Tata Power — conventional, and drifting​11
+4.5  Suzlon — net cash is structural, not conservatism​11
+5   Profitability and returns​12
+6   Valuation​13
+6.1  Multiples​13
+6.2  Where the dispersion comes from​13
+6.3  Enterprise value per megawatt inverts the ranking​13
+6.4  Multiples that carry no meaning in this set​14
+7   ESG assessment​15
+7.1  Agency coverage and scores​15
+7.2  One of the four has no rating at all​15
+7.3  The company with the most coverage scores the worst​15
+7.4  The correlation is real, and close to circular​15
+7.5  Governance flags​16
+8   Investment conclusions​17
+8.1  Three propositions, not four​17
+8.2  The ranking depends entirely on the screen​17
+8.3  What would change the view​17
+9   Methodology and basis of preparation​19
+9.1  Data architecture​19
+9.2  Confidence framework​19
+9.3  Reconciliation testing of estimated figures​19
+9.4  Updating the model​20
+9.5  Reproducing this analysis in Power BI​20
+Appendix A   Financial summary, FY2023-24 to FY2025-26​21
+Appendix B   Consolidated peer comparison, FY2025-26​23
+Appendix C   Measure library​24
+Appendix D   Dashboard specification​28
+Appendix E   Source register​29
+Appendix F   Limitations​30
+
+ 
+Exhibits
+Exhibit 1   Capital discipline map — growth against leverage​6
+Exhibit 2   Revenue, absolute and indexed​8
+Exhibit 3   EBITDA by fiscal year, with margin overlay​8
+Exhibit 4   Operating leverage​9
+Exhibit 5   Capital structure at 31 March 2026​10
+Exhibit 6   Net debt ÷ EBITDA, ranked​10
+Exhibit 7   Change in net debt, FY2024-25 to FY2025-26​11
+Exhibit 8   Enterprise value build-up​13
+Exhibit 9   Valuation multiples, ranked​13
+Exhibit 10  EV per operating MW against EV/EBITDA​14
+Exhibit 11  ESG composite against EV/EBITDA​15
+Exhibit 12  Green revenue share and rating-agency coverage​16
+
+1   Executive summary
+ 
+India's renewable build-out is being financed, built, owned and equipped by different companies, and the market is pricing those roles very differently. This report examines four of them side by side on audited FY2025-26 results.
+
+1.1  Summary of findings
+ 
+TATA POWER
+ADANI GREEN
+NTPC GREEN
+SUZLON
+Revenue (₹ cr)
+62,429
+11,602
+2,858
+16,679
+Revenue growth
+(4.7%)
+22.0%
+29.3%
+53.7%
+EBITDA (₹ cr)
+16,090
+10,865
+2,472
+3,022
+EBITDA growth
+11.0%
+23.0%
+13.8%
+63.0%
+EBITDA margin
+25.8%
+93.6%
+86.5%
+18.1%
+PAT (₹ cr)
+5,118
+1,570
+522
+3,163
+PAT growth
+7.2%
+(15.0%)
+9.9%
+52.7%
+Net debt (₹ cr)
+51,900
+91,252
+29,500
+(2,384)
+Net debt / EBITDA
+3.2x
+8.4x
+11.9x
+net cash
+Net debt / equity
+1.18x
+4.57x
+1.56x
+(0.25x)
+Return on equity
+11.6%
+7.9%
+2.8%
+33.4%
+Enterprise value (₹ cr)
+1,71,532
+3,21,053
+1,10,662
+70,106
+EV / EBITDA
+10.7x
+29.5x
+44.8x
+23.2x
+Price / earnings
+23.4x
+146.4x
+155.5x
+22.9x
+Price / book
+2.7x
+11.5x
+4.3x
+7.7x
+ESG composite (0-100)
+49.3
+70.0
+not rated
+63.0
+Green revenue share
+24%
+100%
+100%
+100%
+ 
+Source: Company FY2025-26 audited results and press releases; NSE/BSE market data 22-24 July 2026; agency ESG disclosures. Figures in ₹ crore, consolidated. Negative values in parentheses.
+
+1.2  Conclusions
+– These are four business models, not four comparables. Tata Power is an integrated utility carrying thermal generation and four Odisha distribution companies. Adani Green and NTPC Green are independent power producers converting debt into megawatts. Suzlon sells turbines to all of them. Every multiple in this report has to be read against that.
+– Only one company is growing without leverage. Suzlon grew revenue 53.7% while holding a net cash position of ₹2,384 crore, because it does not own the fleet it builds. The two IPPs added ₹41,840 crore of net debt between them in a single year to fund capacity that has not yet reached the income statement.
+– Adani Green's EBITDA rose 23% while profit after tax fell 15%. Interest and depreciation on ₹30,365 crore of FY2025-26 capital expenditure absorbed the entire operating gain. This is the clearest illustration in the peer set of why EBITDA alone is an inadequate lens on a capital-intensive IPP.
+– Tata Power's revenue decline is a mix event, not a demand event. The Mundra plant was suspended for overhaul from 3 July 2025. Revenue fell 4.7%, yet EBITDA grew 11% because the earnings mix shifted decisively toward renewables, transmission and distribution — the renewables segment alone went from ₹9,876 crore to ₹15,028 crore.
+– Valuation dispersion is four-fold and is explained by purity, not profitability. The set trades between 10.7x and 44.8x EV/EBITDA on a single day. NTPC Green's 2.8% return on equity supports a 155x earnings multiple because the market is pricing capacity it has not yet commissioned.
+– Enterprise value per megawatt inverts the valuation ranking. NTPC Green is the cheapest name in the set per operating megawatt at ₹11.6 crore, against Adani Green at ₹16.6 crore, despite carrying the highest EV/EBITDA. The two measures disagree because one fleet is earning and the other is still being built.
+– One of the four has no third-party ESG rating at all. NTPC Green carries an ₹81,162 crore market capitalisation and a 100% renewable revenue base, and no agency covered it as at 28 July 2026. For a mandate with a hard ESG screen this is a live admissibility question, not a footnote.
+EXHIBIT 1   Capital discipline map — growth against leverage, FY2025-26
+
+Growth on the horizontal axis, leverage on the vertical, enterprise value as bubble area. The shaded quadrant is where revenue growth is being funded without stretching the balance sheet. Only Suzlon occupies it, and it does so because it does not own the assets it builds.
+
+Source: Company results; NSE/BSE market data. Net debt ÷ FY2025-26 EBITDA.
+
+2   Coverage universe
+ 
+2.1  Four positions on one value chain
+The companies in this report are exposed to the same demand: India's installed renewable capacity is being expanded at a pace that will require sustained capital deployment for at least a decade. They monetise that demand in four different places, and the differences are structural rather than stylistic.
+COMPANY
+POSITION ON THE VALUE CHAIN
+WHAT DRIVES EARNINGS
+PRINCIPAL RISK
+Tata Power
+Integrated utility. Generation (thermal, hydro, renewable), transmission, four Odisha discoms, rooftop solar, cell and module manufacturing.
+Regulated returns, distribution efficiency, mix shift toward renewables and T&D.
+Thermal legacy, regulatory tariff outcomes, capital intensity across too many verticals.
+Adani Green Energy
+Pure-play independent power producer. 19.3 GW operating at year end, developing the 30 GW Khavda site, scaling battery storage.
+Contracted tariffs under long-term PPAs at a 94% EBITDA margin; earnings scale with commissioned capacity.
+Leverage. Net debt of ₹91,252 crore against ₹19,965 crore of equity. Refinancing and group-level sentiment.
+NTPC Green Energy
+PSU independent power producer. NTPC's listed renewable arm, early in its build cycle.
+Same contracted model as Adani Green, but at an earlier stage and with sovereign-adjacent funding cost.
+Commissioning schedule. Finance costs are currently outrunning the capacity coming online.
+Suzlon Energy
+Wind turbine OEM, EPC contractor and O&M provider. 15.7 GW fleet under management, 5.9 GW order book.
+Turbine deliveries and EPC execution; recurring O&M annuity across the installed base.
+Order-book conversion timing and the cyclicality of the equipment cycle.
+ 
+Source: Company FY2025-26 disclosures.
+
+2.2  Why this matters for every number that follows
+Treating these four as substitutes produces conclusions that are arithmetically correct and analytically worthless. Two examples make the point.
+EV/Revenue. Adani Green trades at 20.2x EV/Revenue and Suzlon at 4.5x. That gap says nothing about relative value: Adani Green books only power-supply revenue against a 94% margin, while Suzlon books equipment and EPC sales at an 18% margin. The multiple is measuring the revenue definition, not the business.
+EBITDA margin. Adani Green's 93.6% and Suzlon's 18.1% are both entirely normal for what they do. A contracted IPP with no fuel cost and outsourced O&M should run above 90%. A manufacturer with a bill of materials should not.
+The measures that do travel across this set are revenue growth, net debt to EBITDA, return on equity, EV/EBITDA and — between the two IPPs specifically — enterprise value per operating megawatt. Those are the measures this report leads with.
+3   Revenue and earnings growth
+ 
+3.1  The headline picture
+COMPANY
+FY2023-24
+FY2024-25
+FY2025-26
+YOY GROWTH
+2-YR CAGR
+EBITDA FY26
+EBITDA YOY
+MARGIN
+Tata Power
+61,449
+65,478
+62,429
+(4.7%)
+0.8%
+16,090
+11.0%
+25.8%
+Adani Green
+8,197
+9,509
+11,602
+22.0%
+19.0%
+10,865
+23.0%
+93.6%
+NTPC Green
+1,963
+2,210
+2,858
+29.3%
+20.7%
+2,472
+13.8%
+86.5%
+Suzlon Energy
+6,497
+10,851
+16,679
+53.7%
+60.2%
+3,022
+63.0%
+18.1%
+Peer median
+—
+—
+—
+25.7%
+19.8%
+—
+18.4%
+56.1%
+ 
+Source: Company results. ₹ crore, consolidated. Adani Green figures are revenue and EBITDA from power supply. FY2023-24 figures are the least reliable year in the model and are shown for trend only — see section 9.2.
+
+EXHIBIT 2   Revenue, absolute and indexed
+
+On an absolute scale Tata Power's revenue is roughly twenty times NTPC Green's, which flattens every other trajectory. The indexed panel is the one that answers the growth question.
+
+Read the two panels together. On absolute revenue Tata Power is the largest company in the set by a wide margin and Suzlon is a distant second. On the indexed panel Suzlon has grown to 257 against a FY2023-24 base of 100, Adani Green to 142, NTPC Green to 146, and Tata Power is essentially flat at 102. Scale and compounding are unrelated here.
+
+EXHIBIT 3   EBITDA by fiscal year, with FY2025-26 margin overlay
+
+Margins are structural to the business model and should not be compared across the set. The bars, and their year-on-year progression, are what carries information.
+
+3.2  Tata Power — a mix shift dressed as a decline
+Tata Power is the only company in the set whose revenue fell in FY2025-26, and the headline is misleading. The Mundra ultra mega power plant was suspended for overhaul with effect from 3 July 2025, which removed roughly ₹9,000 crore from standalone revenue: standalone revenue from operations dropped from ₹22,359 crore to ₹13,226 crore and standalone profit from ₹3,133 crore to ₹1,125 crore.
+Consolidated EBITDA nonetheless rose 11% to ₹16,090 crore, and consolidated profit after tax reached ₹5,118 crore — the first time the company has cleared ₹5,000 crore. The reason is composition. The renewables segment grew from ₹9,876 crore to ₹15,028 crore of revenue. Transmission and distribution profit rose 49% to ₹2,978 crore. The Odisha discoms delivered ₹809 crore, up 84%. Solar cell and module manufacturing profit doubled to ₹857 crore on yields above 95%.
+A supplementary power purchase agreement with Gujarat Urja Vikas Nigam was executed on 23 March 2026 with effect from 1 April 2025, and the Ministry of Power has permitted operation under revised terms. Mundra's contribution should normalise in FY2026-27, which makes the FY2025-26 revenue line a poor base for any forward projection.
+
+3.3  Adani Green — the divergence between EBITDA and profit
+Adani Green added 5,051 MW of greenfield capacity in FY2025-26, 1.5 times the prior year and one of the largest annual additions anywhere outside China. Operating capacity rose 35% to 19,294 MW, energy sales rose 34% to 37,567 million units, revenue from power supply rose 22% and EBITDA rose 23%.
+Profit after tax fell 15%, to approximately ₹1,570 crore. The company posted a loss of ₹41 crore in the December 2025 quarter. The entire operating gain was absorbed by interest and depreciation on ₹30,365 crore of capital expenditure. Management also estimates that grid curtailment and merchant-price realisation cost the company ₹1,200 to ₹1,500 crore of FY2025-26 EBITDA — roughly ₹500 crore from transmission constraints and ₹800 to ₹1,000 crore from selling power on the open market below contracted tariffs, a decision taken to secure transmission-charge waivers before they expired.
+This is the single most important reading exercise in the report. A reader looking only at EBITDA sees a company compounding at 23%. A reader looking at the full income statement sees a company whose growth is currently being consumed by its own funding cost.
+
+3.4  NTPC Green — asset growth ahead of earnings
+NTPC Green grew revenue 29.3% to ₹2,858 crore, the second-fastest rate in the set, but EBITDA grew only 13.8% and profit after tax 9.9%. Earnings per share actually fell, from ₹0.67 to ₹0.62.
+The reason is visible on the balance sheet rather than the income statement. Total assets rose from ₹45,421 crore to ₹60,381 crore, with over ₹15,264 crore spent on property, plant and equipment during the year. Finance costs of ₹887 crore for the year consumed a substantial share of operating profit. In the March 2026 quarter, revenue rose 46.7% year on year while net profit fell 15.4%, as finance costs jumped from ₹177 crore to ₹257 crore.
+The company also lost 314 million units to grid curtailment during the year, with an estimated EBITDA impact of around ₹90 crore.
+
+3.5  Suzlon — growth, and a question about its quality
+Suzlon delivered the strongest operating year in the set on every growth measure: revenue up 53.7% to ₹16,679 crore, EBITDA up 63% to ₹3,022 crore, and margin expansion of 100 basis points to 18.1%. India deliveries of 2,456 MW were the highest in the company's history, and the order book closed at 5.9 GW with 66% from PSU and commercial and industrial customers.
+The reported profit after tax of ₹3,163 crore requires a caveat. It includes a ₹742 crore deferred tax asset recognition. Profit before tax was ₹2,422 crore, up 67% — that is the figure to quote and the one on which any forward multiple should be built. On reported PAT, Suzlon's profit exceeds its EBITDA, which is not a sustainable relationship.
+Working capital is the other point of attention. Consolidated cash and cash equivalents closed at ₹1,246 crore against ₹1,113 crore a year earlier, on revenue that grew by more than half. 971 MW was erected and awaiting commissioning at year end against 744 MW commissioned during the year, which is a meaningful quantum of revenue recognised ahead of cash conversion.
+
+EXHIBIT 4   Operating leverage — EBITDA growth against revenue growth
+
+Points above the diagonal expanded EBITDA margin during the year. Tata Power sits furthest from the diagonal in absolute terms: revenue fell while EBITDA grew.
+
+4   Debt structure and balance sheet capacity
+ 
+Renewable generation is a spread business funded with debt. The question this section asks is not how much debt each company carries, but whether the balance sheet can carry what the growth plan requires.
+
+4.1  Aggregate position
+COMPANY
+GROSS DEBT
+CASH
+NET DEBT
+TOTAL EQUITY
+NET D/E
+NET DEBT/EBITDA
+ASSESSMENT
+Tata Power
+56,000
+4,100
+51,900
+44,000
+1.18x
+3.2x
+Comfortable
+Adani Green
+96,000
+4,748
+91,252
+19,965
+4.57x
+8.4x
+Stretched
+NTPC Green
+31,600
+2,100
+29,500
+18,950
+1.56x
+11.9x
+Stretched
+Suzlon Energy
+700
+3,084
+(2,384)
+9,464
+(0.25x)
+net cash
+Net cash
+Peer total
+1,84,300
+14,032
+1,70,268
+92,379
+1.84x
+5.2x
+—
+ 
+Source: ₹ crore at 31 March 2026. Gross debt and equity for Tata Power, NTPC Green and Suzlon are reconciled estimates derived from reported leverage ratios — see section 9.3. Adani Green net debt and equity are as reported.
+
+Bands used throughout this report: net debt below 3.0x EBITDA is comfortable for a contracted utility; 3.0x to 6.0x warrants monitoring; above 6.0x is stretched. These are conventions, not covenants, and they are set in one place in the underlying model so that a reader who disagrees can change them and see every conclusion move.
+
+EXHIBIT 5   Capital structure at 31 March 2026
+
+Total equity in company colour, net debt stacked above. Labels show net debt ÷ EBITDA. Suzlon's net cash position is drawn below the axis.
+
+EXHIBIT 6   Net debt ÷ EBITDA, ranked
+
+ 
+4.2  Adani Green — the trade, stated plainly
+Adani Green added ₹26,790 crore of net debt in a single year, taking net debt from ₹64,462 crore to ₹91,252 crore. That increment alone is roughly two and a half times the company's annual EBITDA. It funded ₹30,365 crore of capital expenditure and 5.1 GW of new capacity.
+Against ₹19,965 crore of equity, net debt to equity stands at 4.57x — by a wide margin the most leveraged balance sheet in the set. Net debt to EBITDA of 8.4x on reported FY2025-26 EBITDA moderates to roughly 7.8x on an annualised run-rate basis, because a substantial share of the 5.1 GW was commissioned late in the year and has not yet contributed a full period of earnings. Neither figure is comfortable.
+The bull case is that this is exactly what a growth IPP balance sheet should look like mid-build, that the assets are contracted under long-term PPAs at a 91% to 94% margin, and that leverage will de-gear as capacity seasons. The bear case is that the company is already producing a loss-making quarter at this level of gearing, and that the FY2026-27 target of more than 10,000 MWh of battery storage implies the capital cycle is not slowing.
+
+4.3  NTPC Green — the highest ratio, the cheapest funding
+NTPC Green shows the highest net debt to EBITDA in the set at 11.9x. Debt-to-equity climbed from 0.97x to 1.54x in twelve months, non-current borrowings rose from ₹17,301 crore to ₹28,637 crore, and total assets grew by a third.
+Its mitigant is funding cost rather than balance sheet capacity. In July 2026 the company placed ₹2,500 crore of ten-year unsecured non-convertible debentures at 7.27%. A private independent power producer with a 1.54x debt-to-equity ratio and a 2.8% return on equity would not price anywhere near that. What is being financed here is partly the asset and partly the Maharatna parent, and the board has approved a further ₹5,000 crore borrowing programme for FY2026-27.
+
+4.4  Tata Power — conventional, and drifting
+At 1.18x net debt to equity and 3.2x net debt to EBITDA, Tata Power holds the most conventional balance sheet in the set. The direction of travel is worth noting: net debt to equity has moved from 1.05x to 1.18x over the year as clean-energy capital expenditure absorbed 62% of a five-year ₹33,000 crore programme.
+The company also carries an unresolved contingency. A Singapore International Arbitration Centre award of USD 490.32 million remains under appeal. It is not provided for in these figures and is not reflected in any multiple in this report.
+
+4.5  Suzlon — net cash is structural, not conservatism
+Suzlon closed the year with a net cash position of ₹2,384 crore against a net worth of ₹9,464 crore. This should not be read as balance-sheet discipline relative to the IPPs. Suzlon does not own the generating fleet, so it does not carry the fleet's debt. That is the asset-light bargain, and it comes with the corresponding exposure to order-book timing rather than to interest rates.
+The relevant balance-sheet risk for Suzlon is working capital, not leverage: rapid revenue growth on modest cash generation, with 971 MW erected and awaiting commissioning at year end.
+
+EXHIBIT 7   Change in net debt, FY2024-25 to FY2025-26
+
+The two independent power producers added ₹41,840 crore of net debt between them in a single year.
+
+5   Profitability and returns
+ 
+COMPANY
+EBITDA MARGIN
+PAT MARGIN
+RETURN ON EQUITY
+RETURN ON CAPITAL EMPLOYED
+INTEREST COVER
+Tata Power
+25.8%
+8.2%
+11.6%
+16.1%
+n/d
+Adani Green
+93.6%
+13.5%
+7.9%
+9.4%
+n/d
+NTPC Green
+86.5%
+18.3%
+2.8%
+4.9%
+2.8x
+Suzlon Energy
+18.1%
+19.0%
+33.4%
+29.8%
+n/d
+ 
+Source: Computed from FY2025-26 reported figures. ROCE uses EBITDA over closing equity plus gross debt. Interest cover shown only where finance cost is separately disclosed. Suzlon's PAT margin is flattered by a ₹742 crore deferred tax asset recognition; on profit before tax the margin is 14.5%.
+
+Three observations.
+Margin tells you the business model; return on equity tells you the investment. Adani Green and NTPC Green post the highest EBITDA margins in the set and the lowest returns on equity. There is no contradiction: a contracted IPP earns a high margin on a very large asset base, and the return depends entirely on how much of that base is earning. Suzlon posts the lowest EBITDA margin and by far the highest return on equity, because it turns its capital over.
+NTPC Green's 2.8% return on equity is the weakest number in this report. It sits below the company's own cost of debt. That is defensible for a business two years into a build cycle, provided the commissioning schedule delivers. It is not defensible indefinitely, and it is the single metric most worth tracking quarter to quarter.
+Suzlon's 33.4% return on equity should be discounted before it is relied upon. Strip the ₹742 crore deferred tax credit and return on equity falls to roughly 25.6% — still the highest in the set by a wide margin, but a different number from the headline.
+
+6   Valuation
+ 
+Market data as at 22 to 24 July 2026. Enterprise value pairs the live market capitalisation with the latest reported net debt; this is a deliberate mismatch of dates and is disclosed as such.
+
+6.1  Multiples
+COMPANY
+PRICE (₹)
+MKT CAP
+NET DEBT
+EV
+EV/EBITDA
+EV/REVENUE
+P/E
+P/B
+EV PER MW
+Tata Power
+374.40
+1,19,632
+51,900
+1,71,532
+10.7x
+2.7x
+23.4x
+2.7x
+₹21.7 cr
+Adani Green
+1,395.10
+2,29,801
+91,252
+3,21,053
+29.5x
+27.7x
+146.4x
+11.5x
+₹16.6 cr
+NTPC Green
+96.32
+81,162
+29,500
+1,10,662
+44.8x
+38.7x
+155.5x
+4.3x
+₹11.6 cr
+Suzlon Energy
+53.01
+72,490
+(2,384)
+70,106
+23.2x
+4.2x
+22.9x
+7.7x
+n/a
+Peer median
+—
+—
+—
+—
+26.4x
+15.9x
+84.9x
+6.0x
+₹16.6 cr
+ 
+Source: NSE closing prices; Suzlon at the 22 July 2026 close, the others at 24 July 2026. ₹ crore unless stated. Multiples on FY2025-26 reported figures.
+
+EXHIBIT 8   Enterprise value build-up
+
+Market capitalisation in company colour, net debt stacked above. Labels show EV ÷ FY2025-26 EBITDA.
+
+EXHIBIT 9   Valuation multiples, ranked. Dashed line marks the peer median
+
+ 
+6.2  Where the dispersion comes from
+The peer set trades between 10.7x and 44.8x EV/EBITDA — a four-fold range, inside one sector, on one day. Almost none of that dispersion is explained by profitability. It is explained by purity of exposure and by duration.
+Tata Power is priced as a utility at 10.7x because it is one. Roughly three-quarters of its revenue comes from something other than renewables, and it carries thermal generation, four distribution companies and a manufacturing business. The market is not paying a renewable multiple for a renewable-adjacent business, and on a 23.4x earnings multiple with a 0.67% dividend yield it is not being asked to.
+NTPC Green is priced on capacity it has not yet commissioned. That is how a 2.8% return on equity supports 155.5x earnings and 44.8x EBITDA. The multiple is not a statement about current earnings; it is a discount rate applied to a commissioning schedule.
+Suzlon at 23.2x EV/EBITDA and 22.9x earnings is priced as a cyclical manufacturer despite a 5.9 GW order book and the highest return on equity in the set. Order books convert at the market's pace, not the company's, and the market prices that timing risk.
+
+6.3  Enterprise value per megawatt inverts the ranking
+For the two pure-play IPPs, enterprise value per operating megawatt is the cleanest like-for-like comparison available, and it reverses what EV/EBITDA suggests.
+NTPC Green is the cheapest name in the set per operating megawatt at ₹11.6 crore, against Adani Green at ₹16.6 crore — despite carrying an EV/EBITDA more than half again as high. The two measures disagree because Adani Green's fleet is earning and NTPC Green's is still being built. Which measure is right depends entirely on whether a buyer underwrites NTPC Green's commissioning schedule. If the schedule delivers, the EBITDA multiple compresses toward the asset multiple. If it slips, the asset multiple was never the relevant one.
+Tata Power's ₹21.7 crore per megawatt is shown for completeness and should not be compared. Its enterprise value also buys thermal generation, transmission and distribution, so dividing the whole by renewable capacity alone materially overstates the figure.
+
+EXHIBIT 10   Enterprise value per operating MW against EV/EBITDA
+
+The two IPPs sit on opposite sides of the relationship. Suzlon owns no generating fleet and is not plotted.
+
+6.4  Multiples that carry no meaning in this set
+EV/Revenue is reported in the table above for completeness and should be disregarded. Adani Green's 27.7x sits against a 93.6% EBITDA margin and Suzlon's 4.2x against 18.1%; the ratio is measuring the revenue definition rather than the valuation. Price to book is similarly compromised for Suzlon, whose net worth was reconstructed following a scheme of reserve reorganisation approved by the NCLT in May 2026.
+
+7   ESG assessment
+ 
+7.1  Agency coverage and scores
+COMPANY
+MSCI
+SUSTAINALYTICS RISK
+LSEG
+S&P CSA
+CRISIL ESG
+AGENCIES
+COMPOSITE
+BAND
+GREEN REVENUE
+Adani Green
+A
+—
+—
+—
+69
+2
+70.0
+Leading
+100%
+Suzlon Energy
+—
+—
+—
+63
+—
+1
+63.0
+Adequate
+100%
+Tata Power
+BBB
+41
+73
+—
+—
+3
+49.3
+Lagging
+24%
+NTPC Green
+—
+—
+—
+—
+—
+0
+not rated
+No coverage
+100%
+ 
+Source: Agency disclosures as at the dates in Appendix E. Blank indicates no public rating located, not a score of zero. Sustainalytics publishes a risk score, where a lower value is better; it is inverted before averaging. The composite is an unweighted average of whichever agency scores exist, normalised to 0-100. Normalisation rules are at Appendix C.
+
+7.2  One of the four has no rating at all
+NTPC Green carries an ₹81,162 crore market capitalisation and a 100% renewable revenue base, and no third-party ESG rating could be located for it as at 28 July 2026. Newly listed public-sector subsidiaries routinely lag their parents into the ratings universe, and the company listed only in November 2024.
+For a mandate operating a hard ESG screen this is not a footnote. An unrated holding can be inadmissible regardless of how green the underlying assets are, and the absence of a rating is not a neutral fact — it removes the company from consideration by exactly the pool of capital its business model is designed to attract. It is also the single easiest item on this list to resolve: the underlying model has an input cell waiting for the score, and every visual repopulates the day it publishes.
+
+7.3  The company with the most coverage scores the worst
+Tata Power is the only company in the set covered by three agencies, and it posts the lowest composite at 49.3. The driver is a Sustainalytics risk score of 41, which normalises to 18 out of 100 and reflects unmanaged risk from coal and thermal legacy assets. Its LSEG score of 73 shows the disclosure itself is strong.
+Coverage and score are different things, and this is the clearest illustration of it in the set. Tata Power has the most evidence against it and the least flattering result. Adani Green has two agencies and the highest composite. Suzlon has one. A reader comparing 70.0 against 49.3 is not comparing like with like, which is why the agency count is presented alongside the score on every page of the underlying dashboard rather than buried in a note.
+
+EXHIBIT 11   ESG composite against EV/EBITDA
+
+Three rated observations. The fitted line is illustrative and carries no statistical weight.
+
+7.4  The correlation is real, and close to circular
+Across the three rated names, the ESG composite and the EV/EBITDA multiple move together. It would be easy, and wrong, to present that as evidence of a green premium.
+The highest-scoring company is also the purest-play renewable one, and purity of exposure is what the multiple is already pricing — as section 6.2 sets out independently of any ESG consideration. With three observations there is no statistical claim available. The relationship shown in Exhibit 11 is best understood as two views of the same underlying variable rather than as one causing the other.
+What the analysis does establish is narrower and more useful: an ESG-screened mandate would rank these four very differently from a growth-screened one, and one of them would not pass the screen at all for want of a rating.
+
+EXHIBIT 12   Green revenue share and rating-agency coverage
+
+ 
+7.5  Governance flags
+Governance rarely registers in a composite score. It does register in a multiple, and each company in this set carries something.
+COMPANY
+FLAG
+STATUS
+Tata Power
+Coal and thermal legacy assets drive an elevated unmanaged-risk score despite strong disclosure. SIAC arbitration award of USD 490.32 million outstanding.
+Under appeal
+Adani Green
+Group-level governance scrutiny persists. CRISIL reaffirmed the 'Strong' ESG category with a score of 69 on 8 July 2026, and MSCI maintains an A rating.
+Ratings reaffirmed
+NTPC Green
+No third-party ESG rating located. No specific controversy identified; the gap is one of coverage, not conduct.
+Unresolved
+Suzlon Energy
+SEBI imposed a penalty of ₹15.95 crore on 29 May 2026 in respect of misstatements in financial statements for FY2013-14 to FY2017-18, setting aside an earlier exoneration. Penalties were also imposed on key executives.
+Company to appeal at SAT
+ 
+Suzlon was also ranked in the top ten of the Corporate Knights Global 100 Most Sustainable Corporations for 2026, the only Indian company to place that highly. Both facts are true simultaneously, which is a useful reminder of what a single ESG headline is worth.
+
+8   Investment conclusions
+ 
+8.1  Three propositions, not four
+The coverage universe resolves into three distinct investment cases. The two independent power producers are variations on one proposition rather than two.
+PROPOSITION
+NAMES
+WHAT YOU ARE BUYING
+WHAT BREAKS IT
+Value and mix shift
+Tata Power
+The cheapest multiple in the set at 10.7x EV/EBITDA, the only dividend, moderate leverage at 1.18x, and an earnings mix moving toward renewables and regulated distribution at 11% EBITDA growth.
+A flat top line, the weakest ESG profile in the set, and an unprovided arbitration exposure of USD 490 million.
+Duration
+Adani Green, NTPC Green
+Contracted megawatts at 86% to 94% EBITDA margins, bought with leverage today against earnings that arrive as capacity seasons. Adani Green offers the better fleet economics; NTPC Green the cheaper capital and the lower entry price per megawatt.
+The commissioning schedule, the interest bill, and grid curtailment. Adani Green already posted a loss-making quarter at 4.57x net debt to equity; NTPC Green earns 2.8% on equity.
+Picks and shovels
+Suzlon Energy
+Exposure to the same build-out with none of the fleet leverage: net cash, a 5.9 GW order book, 33.4% return on equity and a 15.7 GW O&M annuity.
+Order-book conversion timing, working capital under rapid growth, earnings quality (₹742 crore of the reported profit is a deferred tax credit), and an unresolved SEBI matter.
+8.2  The ranking depends entirely on the screen
+This is the practical conclusion of the report. There is no single ordering of these four companies; there are four orderings, and which one applies depends on the mandate.
+SCREEN
+1ST
+2ND
+3RD
+4TH
+Revenue growth
+Suzlon (53.7%)
+NTPC Green (29.3%)
+Adani Green (22.0%)
+Tata Power (-4.7%)
+Balance sheet strength
+Suzlon (net cash)
+Tata Power (3.2x)
+Adani Green (8.4x)
+NTPC Green (11.9x)
+Return on equity
+Suzlon (33.4%)
+Tata Power (11.6%)
+Adani Green (7.9%)
+NTPC Green (2.8%)
+Valuation, EV/EBITDA
+Tata Power (10.7x)
+Suzlon (23.2x)
+Adani Green (29.5x)
+NTPC Green (44.8x)
+Asset value per MW
+NTPC Green (₹11.6cr)
+Adani Green (₹16.6cr)
+Tata Power (n/m)
+Suzlon (n/a)
+ESG composite
+Adani Green (70.0)
+Suzlon (63.0)
+Tata Power (49.3)
+NTPC Green (unrated)
+ 
+Suzlon leads three of the six screens and Tata Power one, but Suzlon is also the most expensive of the two on earnings-adjusted terms once the deferred tax credit is removed, and Tata Power is the only name with negative revenue growth. NTPC Green is last on three screens and first on one — and the screen it wins is the one that matters most if its commissioning schedule holds.
+
+8.3  What would change the view
+– Adani Green: evidence that leverage has peaked. A year in which net debt grows more slowly than EBITDA would materially change the case. FY2026-27 first-quarter profit of ₹983 crore, up 19.3%, is an encouraging start.
+– NTPC Green: commissioned capacity converting to earnings. The company moved from 8,478 MW commercial in January 2026 to 10,787 MW in July 2026. If return on equity does not begin to rise through FY2026-27, the duration argument weakens sharply.
+– Tata Power: Mundra normalisation under the revised GUVNL supplementary PPA, and whether the renewables and Odisha momentum persists once the thermal base is restored.
+– Suzlon: order-book conversion and cash generation. Revenue grew 54% while cash and equivalents grew 12%; that gap is the number to watch.
+– All four: grid and transmission constraints. Curtailment cost Adani Green an estimated ₹500 crore and NTPC Green around ₹90 crore of FY2025-26 EBITDA. This is a sector-level risk that scales with installed capacity.
+9   Methodology and basis of preparation
+ 
+9.1  Data architecture
+The figures in this report are produced by a star-schema data model built so that a change to any input propagates to every derived number without manual intervention. Two dimension tables, four fact tables, single-direction one-to-many relationships throughout.
+TABLE
+TYPE
+GRAIN
+KEY FIELDS
+Dim_Company
+Dimension
+One row per company
+CompanyKey (PK), Company, Ticker, ISIN, Business Model, Promoter
+Dim_FiscalYear
+Dimension
+One row per fiscal year
+FYKey (PK), FY Label, Period End, Sort Order, Is Latest FY
+Fact_Financials
+Fact
+Company × fiscal year
+Revenue, EBITDA, PAT, Gross Debt, Cash, Net Debt, Total Equity, Capex, Finance Cost, plus a confidence flag on each
+Fact_Market
+Fact
+Company (snapshot)
+Close Price, Shares Outstanding, Market Cap, DPS, 52-week range, Price Date
+Fact_ESG
+Fact
+Company (snapshot)
+Agency scores, normalised scores, Agencies Covering, Composite, Green Revenue %, CO2 Avoided
+Fact_Operations
+Fact
+Company × fiscal year
+Operational RE Capacity MW, Portfolio incl Pipeline, Capacity Added, Energy Sales MU, Order Book MW
+ 
+Fact_Market and Fact_ESG deliberately carry no relationship to Dim_FiscalYear. A market capitalisation is a point-in-time observation, not a fiscal-year fact; joining it to the year dimension would blank every valuation figure the moment a reader selected a prior year. The valuation measures therefore remove the fiscal-year filter and pair the live market capitalisation with net debt pinned to the latest reported year. That pairing is a deliberate mismatch of dates and is disclosed on the face of section 6.
+
+9.2  Confidence framework
+Every fact in the model carries a flag. This is not a formality: roughly a quarter of the balance-sheet inputs in this report are not directly reported, and a reader is entitled to know which.
+FLAG
+MEANING
+APPLIED TO
+R — Reported
+Taken directly from an audited result, exchange filing, results press release or investor presentation.
+All FY2025-26 revenue, EBITDA and PAT figures; Adani Green net debt and equity; Suzlon net cash and net worth; all market data.
+D — Derived
+Arithmetically derived from two reported figures, typically a prior-year value computed from a current value and a reported growth rate.
+Several FY2024-25 revenue and EBITDA figures; NTPC Green FY2024-25 equity; Adani Green FY2024-25 PAT.
+E — Estimated
+A reconciled estimate, cross-checked against an independently published market ratio.
+Gross debt and total equity for Tata Power, NTPC Green and Suzlon; all FY2023-24 balance-sheet items.
+ND — No data
+No public disclosure located. Left blank and excluded from averages, never assumed to be zero.
+Finance cost for three companies; NTPC Green ESG rating; Suzlon operating capacity (it owns no fleet).
+9.3  Reconciliation testing of estimated figures
+An estimate is only worth carrying if it can be falsified. Each derived equity figure was tested by computing price-to-book from it and comparing the result against price-to-book ratios published independently by market data providers. Price-to-earnings was tested the same way.
+COMPANY
+P/B COMPUTED HERE
+P/B PUBLISHED INDEPENDENTLY
+VARIANCE
+P/E COMPUTED HERE
+P/E PUBLISHED
+VERDICT
+Tata Power
+2.72x
+2.52x – 3.04x
+within range
+23.4x
+23.4x
+Accepted
+Adani Green
+11.51x
+11.78x
+(2.3%)
+146.4x
+n/a (reported)
+Accepted
+NTPC Green
+4.28x
+4.32x
+(0.9%)
+155.5x
+135x – 155x
+Accepted
+Suzlon Energy
+7.66x
+7.46x
+2.7%
+22.9x
+22.6x
+Accepted
+ 
+In addition, Tata Power's derived net debt to equity resolves to exactly the 1.18x the company reported for FY2025-26, and NTPC Green's to 1.56x against a reported 1.54x. The estimates are sound enough to build on. They remain flagged so that a reader can discount them, and they should be replaced with annual-report figures once all FY2025-26 reports are filed.
+
+9.4  Updating the model
+The model was built so that refreshing it is a data task, not an analytical one.
+– New results. Add one row per company to Fact_Financials and Fact_Operations, add the year to Dim_FiscalYear and move the Is Latest FY marker. Every ratio, growth rate, CAGR, multiple and exhibit recalculates.
+– Price movement. Edit only the Close Price and Price Date fields in Fact_Market. Market capitalisation, enterprise value, EV/EBITDA, price-to-earnings and price-to-book all follow.
+– New ESG rating. Enter the score in the relevant agency column. The normalisation formula, the agency count and the composite recalculate, and the company joins Exhibit 11 automatically. This is specifically how NTPC Green's missing rating is absorbed when it publishes.
+– Changing thresholds. The leverage bands (3.0x and 6.0x) and the ESG normalisation rules each exist in exactly one place. A reader who disagrees with either can change it and see every conclusion in sections 4 and 7 move accordingly.
+– Extending to forward multiples. Add a Fact_Estimates table at the same grain as Fact_Financials, carrying consensus forward EBITDA. No structural change is required to the model or the measures.
+9.5  Reproducing this analysis in Power BI
+The model imports into Power BI Desktop without a single Power Query edit, because every table in the source workbook is a named Excel table rather than a sheet range. The build sequence is:
+– Get Data → Excel workbook. In the Navigator select the six named tables, not the sheets. Load.
+– In Model view, create one-to-many single-direction relationships from Dim_Company[CompanyKey] to each fact table, and from Dim_FiscalYear[FYKey] to Fact_Financials and Fact_Operations. Leave Fact_Market and Fact_ESG unconnected to the year dimension.
+– Select Dim_FiscalYear[FY Label] → Column tools → Sort by column → Sort Order. Without this, FY2023-24 sorts after FY2024-25.
+– Create the measures at Appendix C. Tabular Editor 2 will bulk-create them from the listing; otherwise add them individually in the Modeling tab.
+– Format: growth and margin measures 0.0%; multiples 0.0"x"; rupee measures #,0. Apply the theme at Appendix D.
+– Set Edit interactions to Highlight on every visual, so selecting a company on one cross-filters the rest.
+Appendix A   Financial summary, FY2023-24 to FY2025-26
+ 
+Consolidated. Figures flagged E or D in the confidence framework are marked with an asterisk; see section 9.2.
+Tata Power
+₹ CRORE
+FY2023-24
+FY2024-25
+FY2025-26
+Revenue from operations
+61,449*
+65,478
+62,429
+EBITDA
+12,703*
+14,495*
+16,090
+Profit after tax
+4,280
+4,775
+5,118
+Gross debt
+42,500*
+47,000*
+56,000
+Cash and equivalents
+12,000*
+6,000*
+4,100*
+Net debt
+30,500*
+41,000*
+51,900*
+Total equity
+35,000*
+39,050*
+44,000*
+Net debt / equity
+0.87x
+1.05x
+1.18x
+Renewable capacity (MW)
+4,800*
+6,700
+7,900*
+ 
+
+Adani Green Energy
+₹ CRORE
+FY2023-24
+FY2024-25
+FY2025-26
+Revenue from power supply
+8,197*
+9,509*
+11,602
+EBITDA from power supply
+7,222
+8,833*
+10,865
+Profit after tax
+1,336*
+1,848*
+1,570
+Cash profit
+—
+4,864*
+5,399
+Net debt
+58,000*
+64,462
+91,252
+Total equity
+12,800*
+15,500*
+19,965
+Capital expenditure
+—
+—
+30,365
+Operating capacity (MW)
+10,934
+14,243
+19,294
+Energy sales (million units)
+—
+28,035*
+37,567
+ 
+
+NTPC Green Energy
+₹ CRORE
+FY2023-24
+FY2024-25
+FY2025-26
+Revenue from operations
+1,963*
+2,210
+2,858
+EBITDA
+1,747*
+2,172
+2,472
+Profit after tax
+345*
+475
+522
+Gross debt
+12,800*
+17,970
+31,600*
+Cash and equivalents
+1,500*
+3,520
+2,100*
+Net debt
+11,300*
+14,450
+29,500*
+Total equity
+8,500*
+18,530*
+18,950*
+Finance cost
+—
+761
+887
+Capital expenditure
+—
+—
+15,264
+Total assets
+—
+45,421
+60,381
+ 
+
+Suzlon Energy
+₹ CRORE
+FY2023-24
+FY2024-25
+FY2025-26
+Revenue from operations
+6,497
+10,851
+16,679
+EBITDA
+1,150*
+1,854*
+3,022
+Profit before tax
+—
+1,447
+2,422
+Profit after tax
+660
+2,072
+3,163
+Net cash / (net debt)
+100*
+1,107*
+2,384
+Net worth
+1,900*
+6,300*
+9,464
+Deliveries, India (MW)
+—
+1,550
+2,456
+Order book (MW)
+3,800*
+5,600
+5,900
+Earnings per share (₹)
+—
+1.51
+2.31
+ 
+
+Appendix B   Consolidated peer comparison, FY2025-26
+ 
+METRIC
+TATA POWER
+ADANI GREEN
+NTPC GREEN
+SUZLON
+PEER MEDIAN
+Revenue (₹ cr)
+62,429
+11,602
+2,858
+16,679
+—
+Revenue growth YoY
+(4.7%)
+22.0%
+29.3%
+53.7%
+25.7%
+Revenue CAGR, 2 years
+0.8%
+19.0%
+20.7%
+60.2%
+19.8%
+EBITDA (₹ cr)
+16,090
+10,865
+2,472
+3,022
+—
+EBITDA growth YoY
+11.0%
+23.0%
+13.8%
+63.0%
+18.4%
+EBITDA margin
+25.8%
+93.6%
+86.5%
+18.1%
+56.1%
+PAT (₹ cr)
+5,118
+1,570
+522
+3,163
+—
+PAT growth YoY
+7.2%
+(15.0%)
+9.9%
+52.7%
+8.5%
+Gross debt (₹ cr)
+56,000
+96,000
+31,600
+700
+—
+Net debt (₹ cr)
+51,900
+91,252
+29,500
+(2,384)
+—
+Total equity (₹ cr)
+44,000
+19,965
+18,950
+9,464
+—
+Net debt / EBITDA
+3.2x
+8.4x
+11.9x
+(0.8x)
+5.8x
+Net debt / equity
+1.18x
+4.57x
+1.56x
+(0.25x)
+1.37x
+Return on equity
+11.6%
+7.9%
+2.8%
+33.4%
+9.8%
+Market cap (₹ cr)
+1,19,632
+2,29,801
+81,162
+72,490
+—
+Enterprise value (₹ cr)
+1,71,532
+3,21,053
+1,10,662
+70,106
+—
+EV / EBITDA
+10.7x
+29.5x
+44.8x
+23.2x
+26.4x
+EV / Revenue
+2.7x
+27.7x
+38.7x
+4.2x
+15.9x
+Price / earnings
+23.4x
+146.4x
+155.5x
+22.9x
+84.9x
+Price / book
+2.7x
+11.5x
+4.3x
+7.7x
+6.0x
+EV per operating MW (₹ cr)
+21.7
+16.6
+11.6
+n/a
+16.6
+Operating capacity (MW)
+7,900
+19,294
+9,500
+n/a
+—
+ESG composite (0-100)
+49.3
+70.0
+not rated
+63.0
+63.0
+Agencies providing coverage
+3
+2
+0
+1
+1.5
+Green revenue share
+24%
+100%
+100%
+100%
+100%
+Dividend per share (₹)
+2.50
+nil
+nil
+nil
+—
+ 
+Source: Company FY2025-26 results; NSE/BSE market data 22-24 July 2026; agency ESG disclosures. Peer median excludes non-applicable values.
+
+Appendix C   Measure library
+ 
+The measures below reproduce every figure in this report. They are written for Power BI's DAX engine and assume the model described at section 9.1. Every ratio uses DIVIDE rather than the division operator, which returns a blank on a zero denominator instead of an error.
+
+Base aggregations
+Revenue / EBITDA / PAT / Gross Debt / Cash / Net Debt / Total Equity / Capex / Finance Cost
+Revenue      = SUM ( Fact_Financials[Revenue] )
+EBITDA       = SUM ( Fact_Financials[EBITDA] )
+PAT          = SUM ( Fact_Financials[PAT] )
+Gross Debt   = SUM ( Fact_Financials[Gross Debt] )
+Cash         = SUM ( Fact_Financials[Cash & Equiv] )
+Net Debt     = SUM ( Fact_Financials[Net Debt] )
+Total Equity = SUM ( Fact_Financials[Total Equity] )
+Capex        = SUM ( Fact_Financials[Capex] )
+Finance Cost = SUM ( Fact_Financials[Finance Cost] )
+ 
+Market Cap
+Market Cap =
+CALCULATE (
+   SUMX ( Fact_Market, Fact_Market[Close Price] * Fact_Market[Shares Outstanding] ),
+   REMOVEFILTERS ( Dim_FiscalYear )
+)
+Market capitalisation is a point-in-time observation. Without REMOVEFILTERS it blanks whenever a prior fiscal year is selected.
+Period selection
+Selected FY / Selected FY Sort
+Selected FY =
+VAR _Sel = SELECTEDVALUE ( Dim_FiscalYear[FYKey] )
+VAR _Latest =
+   CALCULATE ( MAX ( Dim_FiscalYear[FYKey] ),
+       FILTER ( ALL ( Dim_FiscalYear ), Dim_FiscalYear[Is Latest FY] = "Yes" ) )
+RETURN COALESCE ( _Sel, _Latest )
+ 
+Selected FY Sort =
+CALCULATE ( MAX ( Dim_FiscalYear[Sort Order] ),
+   FILTER ( ALL ( Dim_FiscalYear ), Dim_FiscalYear[FYKey] = [Selected FY] ) )
+ 
+Prior-year retrievers
+Revenue PY =
+CALCULATE ( [Revenue],
+   FILTER ( ALL ( Dim_FiscalYear ),
+       Dim_FiscalYear[Sort Order] = [Selected FY Sort] - 1 ) )
+ 
+-- EBITDA PY, PAT PY and Net Debt PY follow the identical pattern.
+Dim_FiscalYear is a text key rather than a date table, so DATEADD and SAMEPERIODLASTYEAR are unavailable. The measures step on Sort Order instead.
+Growth
+Growth and CAGR
+Revenue Growth YoY % = DIVIDE ( [Revenue] - [Revenue PY], ABS ( [Revenue PY] ) )
+EBITDA Growth YoY %  = DIVIDE ( [EBITDA]  - [EBITDA PY],  ABS ( [EBITDA PY] ) )
+PAT Growth YoY %     = DIVIDE ( [PAT]     - [PAT PY],     ABS ( [PAT PY] ) )
+ 
+Revenue CAGR 2Y % =
+VAR _End = [Revenue]
+VAR _Start =
+   CALCULATE ( [Revenue],
+       FILTER ( ALL ( Dim_FiscalYear ),
+           Dim_FiscalYear[Sort Order] = [Selected FY Sort] - 2 ) )
+RETURN IF ( _Start > 0 && _End > 0, ( _End / _Start ) ^ ( 1 / 2 ) - 1 )
+ABS on the denominator prevents a sign flip producing a growth rate with the wrong direction where a prior-period value is negative.
+Profitability
+Margin, returns and cover
+EBITDA Margin %   = DIVIDE ( [EBITDA], [Revenue] )
+PAT Margin %      = DIVIDE ( [PAT], [Revenue] )
+ROE %             = DIVIDE ( [PAT], [Total Equity] )
+ROCE %            = DIVIDE ( [EBITDA], [Total Equity] + [Gross Debt] )
+Interest Cover    = DIVIDE ( [EBITDA], [Finance Cost] )
+Self-Funding Gap  = [EBITDA] - [Capex]
+ 
+Leverage
+Ratios and bands
+Net Debt to EBITDA   = DIVIDE ( [Net Debt], [EBITDA] )
+Net Debt to Equity   = DIVIDE ( [Net Debt], [Total Equity] )
+Gross Debt to Equity = DIVIDE ( [Gross Debt], [Total Equity] )
+Net Gearing %        = DIVIDE ( [Net Debt], [Net Debt] + [Total Equity] )
+Is Net Cash          = IF ( [Net Debt] < 0, "Net cash", "Net debt" )
+ 
+Leverage Band =
+VAR _x = [Net Debt to EBITDA]
+RETURN SWITCH ( TRUE (),
+   ISBLANK ( _x ), "No data",
+   _x < 0, "Net cash",
+   _x < 3, "Comfortable",
+   _x < 6, "Watch",
+   "Stretched" )
+ 
+Leverage Band Colour =
+SWITCH ( [Leverage Band],
+   "Net cash", "#2E7D5B", "Comfortable", "#7FD1A8",
+   "Watch", "#C0801A", "Stretched", "#B03A3A", "#6B7B85" )
+The 3.0x and 6.0x thresholds exist only here. Changing them updates every band, colour and conclusion in section 4.
+Valuation
+Latest-year anchors
+Net Debt Latest FY =
+CALCULATE ( [Net Debt],
+   FILTER ( ALL ( Dim_FiscalYear ), Dim_FiscalYear[Is Latest FY] = "Yes" ) )
+ 
+-- EBITDA Latest FY, Revenue Latest FY, PAT Latest FY and Equity Latest FY
+-- follow the identical pattern.
+Pairing a live market capitalisation with a stale year's net debt would be wrong, so net debt is pinned to the latest reported year.
+Multiples
+Enterprise Value = [Market Cap] + [Net Debt Latest FY]
+EV to EBITDA     = DIVIDE ( [Enterprise Value], [EBITDA Latest FY] )
+EV to Revenue    = DIVIDE ( [Enterprise Value], [Revenue Latest FY] )
+PE Ratio         = DIVIDE ( [Market Cap], [PAT Latest FY] )
+PB Ratio         = DIVIDE ( [Market Cap], [Equity Latest FY] )
+ 
+Operational Capacity MW =
+CALCULATE ( SUM ( Fact_Operations[Operational RE Capacity MW] ),
+   FILTER ( ALL ( Dim_FiscalYear ), Dim_FiscalYear[Is Latest FY] = "Yes" ) )
+ 
+EV per MW (Rs cr) = DIVIDE ( [Enterprise Value], [Operational Capacity MW] )
+ 
+Peer Median EV to EBITDA = MEDIANX ( ALL ( Dim_Company ), [EV to EBITDA] )
+ 
+EV to EBITDA vs Peer Median % =
+DIVIDE ( [EV to EBITDA] - [Peer Median EV to EBITDA], [Peer Median EV to EBITDA] )
+ 
+ESG
+Composite, coverage and correlation
+ESG Composite =
+CALCULATE ( AVERAGE ( Fact_ESG[ESG Composite] ), REMOVEFILTERS ( Dim_FiscalYear ) )
+ 
+ESG Agencies Covering =
+CALCULATE ( SUM ( Fact_ESG[Agencies Covering] ), REMOVEFILTERS ( Dim_FiscalYear ) )
+ 
+ESG Coverage Warning =
+VAR _n = [ESG Agencies Covering]
+RETURN SWITCH ( TRUE (),
+   ISBLANK ( _n ) || _n = 0, "No third-party rating located",
+   _n = 1, "Single-agency score - low confidence",
+   _n = 2, "Two agencies - moderate confidence",
+   "Multi-agency - reasonable confidence" )
+ 
+ESG vs Valuation Correlation =
+VAR _t =
+   FILTER (
+       ADDCOLUMNS ( ALL ( Dim_Company[Company] ),
+           "@esg", [ESG Composite], "@ev", [EV to EBITDA] ),
+       NOT ISBLANK ( [@esg] ) && NOT ISBLANK ( [@ev] ) )
+VAR _n = COUNTROWS ( _t )
+VAR _mx = AVERAGEX ( _t, [@esg] )
+VAR _my = AVERAGEX ( _t, [@ev] )
+VAR _cov = SUMX ( _t, ( [@esg] - _mx ) * ( [@ev] - _my ) )
+VAR _sx = SQRT ( SUMX ( _t, ( [@esg] - _mx ) ^ 2 ) )
+VAR _sy = SQRT ( SUMX ( _t, ( [@ev] - _my ) ^ 2 ) )
+RETURN IF ( _n >= 3 && _sx > 0 && _sy > 0, DIVIDE ( _cov, _sx * _sy ) )
+The correlation measure requires at least three rated observations before it returns a value, which is why NTPC Green's absence is visible rather than silently averaged away.
+Normalisation rules applied to raw agency scores
+AGENCY
+NATIVE SCALE
+NORMALISATION TO 0-100
+MSCI
+AAA to CCC, letter
+AAA=100, AA=86, A=71, BBB=57, BB=43, B=29, CCC=14
+Morningstar Sustainalytics
+0-50+, risk (lower is better)
+MAX ( 0, 100 - risk / 50 × 100 )
+LSEG (Refinitiv)
+0-100, positive
+Used as published
+S&P Global CSA
+0-100, positive
+Used as published
+CRISIL ESG
+0-100, positive
+Used as published
+Composite
+—
+Unweighted average of whichever normalised scores exist; agency count reported alongside
+Ranking, data quality and dynamic labels
+Supporting measures
+Rank by Revenue Growth = RANKX ( ALL ( Dim_Company ), [Revenue Growth YoY %], , DESC, DENSE )
+Rank by EV to EBITDA    = RANKX ( ALL ( Dim_Company ), [EV to EBITDA], , ASC, DENSE )
+Rank by Leverage        = RANKX ( ALL ( Dim_Company ), [Net Debt to EBITDA], , ASC, DENSE )
+ 
+Share of Peer Revenue %  = DIVIDE ( [Revenue], CALCULATE ( [Revenue], ALL ( Dim_Company ) ) )
+Share of Peer Net Debt % = DIVIDE ( [Net Debt], CALCULATE ( [Net Debt], ALL ( Dim_Company ) ) )
+ 
+Reported Data Share % =
+DIVIDE (
+   COUNTROWS ( FILTER ( Fact_Financials, Fact_Financials[Revenue Conf] = "R" ) ),
+   COUNTROWS ( Fact_Financials ) )
+ 
+Narrative Card =
+VAR _c = SELECTEDVALUE ( Dim_Company[Company], "The peer set" )
+RETURN _c & " grew revenue " & FORMAT ( [Revenue Growth YoY %], "0.0%" ) &
+   " in " & [Selected FY] & ", carries a " & LOWER ( [Leverage Band] ) &
+   " balance sheet, and trades at " & FORMAT ( [EV to EBITDA], "0.0" ) & "x EV/EBITDA."
+ 
+Appendix D   Dashboard specification
+ 
+The analysis in this report is delivered interactively across five report pages. Each page carries a fiscal-year slicer and a company slicer, with cross-filtering enabled so that selecting a company on any visual filters every other visual on the page.
+
+PAGE
+VISUAL
+TYPE
+FIELDS AND MEASURES
+1 · Executive summary
+Company KPI cards (×4)
+Multi-row card
+[Revenue], [Revenue Growth YoY %], [EBITDA Margin %], [EV to EBITDA], [Net Debt to EBITDA], [ROE %]
+ 
+Peer aggregate strip
+Card ×5
+[Revenue], [EBITDA], [Net Debt], [Market Cap], [Enterprise Value]
+ 
+Capital discipline map
+Scatter
+X [Revenue Growth YoY %] · Y [Net Debt to EBITDA], axis reversed · Size [Enterprise Value] · constant lines at X=0 and Y=3
+2 · Growth
+Revenue and EBITDA by year
+Clustered column
+Axis Dim_FiscalYear[FY Label], legend Dim_Company[Company]; field parameter for absolute vs indexed
+ 
+Growth ranking
+Bar
+[Revenue Growth YoY %] with [Peer Median] constant line
+ 
+Operating leverage
+Scatter
+X [Revenue Growth YoY %] · Y [EBITDA Growth YoY %]
+3 · Debt
+Capital structure
+Stacked column
+[Total Equity] and [Net Debt]
+ 
+Leverage ranking
+Bar
+[Net Debt to EBITDA], conditional format on [Leverage Band Colour], constant line at 3.0
+ 
+Net debt movement
+Bar
+[Net Debt Delta]
+4 · Valuation
+EV build-up
+Stacked column
+[Market Cap] + [Net Debt Latest FY]
+ 
+Multiples (×3)
+Bar
+[EV to EBITDA], [PE Ratio], [PB Ratio], each with a peer-median constant line
+ 
+Multiple against growth
+Scatter
+X [Revenue Growth YoY %] · Y [EV to EBITDA]
+5 · ESG
+Agency matrix
+Matrix
+Raw scores, [ESG Agencies Covering], [ESG Composite]
+ 
+Composite against valuation
+Scatter
+X [ESG Composite] · Y [EV to EBITDA] with trend line
+ 
+Coverage warning
+Card
+[ESG Coverage Warning]
+ 
+Report theme
+Save as theme.json and apply via View → Themes → Browse for themes.
+theme.json
+{
+ "name": "India RE Investment",
+ "background": "#FFFFFF",
+ "foreground": "#22303A",
+ "tableAccent": "#1F4E79",
+ "dataColors": ["#1F4E79","#2E7D5B","#C0801A","#6A4C93",
+                 "#7FD1A8","#B03A3A","#6B7B85","#B8C4CB"],
+ "good": "#2E7D5B", "neutral": "#C0801A", "bad": "#B03A3A",
+ "maximum": "#2E7D5B", "center": "#C0801A", "minimum": "#B03A3A"
+}
+ 
+Appendix E   Source register
+ 
+#
+COMPANY
+SOURCE
+DATE
+SUPPORTS
+1
+Tata Power
+Q4 and FY2025-26 results press release
+12 May 2026
+EBITDA ₹16,090 cr, PAT ₹5,118 cr, segment PAT detail, 2.5 GW commissioned
+2
+Tata Power
+Audited FY2025-26 consolidated results, Regulation 33 filing
+12 May 2026
+Revenue from operations ₹62,428.59 cr, PAT ₹5,117.56 cr, renewables segment revenue ₹15,027.82 cr, DPS ₹2.50, SIAC award disclosure
+3
+Tata Power
+Integrated Annual Report FY2025-26
+June 2026
+Net debt to equity 1.18x, RoE 11.6%, clean and green portfolio 17.5 GW including 9.6 GW pipeline
+4
+Tata Power
+FY2025-26 earnings call
+May 2026
+Gross debt approximately ₹56,000 cr, Odisha AT&C commentary, SMR partnership with NPCIL
+5
+Adani Green
+Q4 and FY2025-26 results press release, investor downloads
+24 April 2026
+Revenue from power supply ₹11,602 cr, EBITDA ₹10,865 cr, cash profit ₹5,399 cr, 5,051 MW added, 19,294 MW operational, 1,376 MWh BESS
+6
+Adani Green
+FY2025-26 results coverage, balance sheet detail
+April – May 2026
+Net debt ₹91,252 cr (FY25 ₹64,462 cr), equity ₹19,965 cr, capex ₹30,365 cr, curtailment and merchant-price impact
+7
+Adani Green
+CRISIL ESG rating intimation under Regulation 30
+8 July 2026
+CRISIL ESG 69, Core ESG 65, 'Strong' category
+8
+NTPC Green
+Audited FY2025-26 consolidated results
+22 May 2026
+Revenue ₹2,858.42 cr, EBITDA ₹2,471.61 cr, PAT ₹522 cr, EPS ₹0.62, ₹5,000 cr borrowing approval
+9
+NTPC Green
+FY2025-26 results analysis, balance sheet
+25 May 2026
+Non-current borrowings ₹28,637 cr (FY25 ₹17,301 cr), D/E 1.54x from 0.97x, total assets ₹60,381 cr, PPE spend ₹15,264 cr, finance cost ₹887 cr
+10
+NTPC Green
+NTPC Ltd Q4 FY2025-26 earnings call
+May 2026
+NGEL operating EBITDA ₹2,475 cr, margin 87%, curtailment 314 MU with c.₹90 cr EBITDA impact
+11
+Suzlon
+Q4 and FY2025-26 audited results press release
+25 May 2026
+Revenue ₹16,679 cr, EBITDA ₹3,022 cr at 18.1%, PAT ₹3,163 cr, net cash ₹2,384 cr, net worth ₹9,464 cr, order book 5.9 GW, EPS ₹2.31
+12
+Suzlon
+FY2025-26 earnings call
+25 May 2026
+PBT ₹2,422 cr, deferred tax asset ₹742 cr, SE Forge revenue ₹597 cr, OMS fleet 15.7 GW, 971 MW erected awaiting commissioning
+13
+Suzlon
+SEBI adjudication order coverage
+29 May 2026
+Penalty ₹15.95 cr in respect of FY2013-14 to FY2017-18 statements; company to appeal at SAT
+14
+Suzlon
+Corporate Knights Global 100 (2026); S&P Global CSA
+Jan 2026
+Top ten placing; CSA score 61, ESG score 63
+15
+Tata Power
+Third-party ESG rating aggregation
+May 2026
+MSCI BBB, Sustainalytics risk 41, LSEG 73
+16
+All
+NSE and BSE closing prices and market capitalisation
+22 – 24 July 2026
+Price, shares outstanding, market capitalisation, 52-week range
+17
+All
+Independently published P/E and P/B ratios
+24 – 27 July 2026
+Reconciliation testing of estimated equity and net debt (section 9.3)
+18
+All
+Q1 FY2026-27 results announcements
+22 – 28 July 2026
+Post-period developments referenced in section 8.3
+Appendix F   Limitations
+ 
+Set out plainly, because a screening document that hides its weak points is worse than one that has none.
+
+1 · The set is not comparable, and no adjustment fixes that
+Four business models on one value chain. EV/Revenue carries no cross-sectional meaning here, and EBITDA margin measures the model rather than the performance. The report flags this wherever it applies, but a reader extracting a single table without the surrounding text will draw wrong conclusions.
+2 · Estimated balance-sheet splits
+Gross debt and total equity for Tata Power, NTPC Green and Suzlon are reconciled estimates derived from reported leverage ratios. They were validated against independently published price-to-book and price-to-earnings ratios to within 3% (section 9.3), and Tata Power's derived net debt to equity resolves to exactly the reported 1.18x. They should nonetheless be replaced with annual-report figures once all FY2025-26 reports are filed.
+3 · Adani Green's FY2024-25 profit after tax
+Taken as the sum of four reported quarterly consolidated net profits (₹1,848 crore). The annual reported figure may differ on non-controlling-interest treatment. This makes the FY2025-26 PAT decline of 15% the least reliable figure on the growth page, and it should be verified against the annual report before being relied upon. The direction of travel is corroborated independently by the December 2025 quarterly loss and by the scale of the capital expenditure.
+4 · FY2023-24 is the weakest year in the model
+It exists to enable a two-year compound growth rate. Individual FY2023-24 line items should not be quoted standalone.
+5 · Mixed valuation dates
+Suzlon's price is the 22 July 2026 close; the other three are 24 July 2026. No 24 July quote was retrievable for Suzlon. The effect is immaterial at these ranges but is recorded for completeness. Suzlon subsequently traded materially lower on 28 July 2026, its Q1 FY2026-27 results date.
+6 · ESG composites rest on thin coverage
+One to three agencies per company, with agency methodologies known to correlate weakly with one another. The composite is a screening flag, not a valuation input. One company has no rating at all and is excluded from the correlation rather than imputed.
+7 · No forward estimates and no contingency provision
+The report contains no consensus forecasts, no discounted cash flow and no target prices. Tata Power's outstanding SIAC arbitration award of USD 490.32 million is disclosed but not provided for in any multiple. Suzlon's SEBI penalty is likewise disclosed but not modelled.
+8 · What would strengthen the next iteration
+– Quarterly grain. Replacing Dim_FiscalYear with a period dimension supports quarterly trending without structural change.
+– A Fact_Estimates table carrying consensus forward EBITDA, enabling forward multiples alongside trailing.
+– Segment-level revenue for Tata Power, the only name where a consolidated figure conceals the story.
+– Cost of debt by company, which would convert section 4 from a stock measure into a coverage measure.
+– Order-book conversion tracking for Suzlon, the single largest driver of its forward numbers.
+ 
